@@ -4,7 +4,7 @@ GOAT script that allows you to check prices of a specific sneaker based on SKU.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install discord_webhook, requests, and bs4
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install discord_webhook and requests
 
 [Python Discord Webhook API](https://pypi.org/project/discord-webhook/)
 1. **Install Requirements**
@@ -27,7 +27,7 @@ webhook_url = 'https://discordapp.com/api/webhooks/...'
 webhook = DiscordWebhook(webhook_url)
 pid = 'AJ4219-400'
 ```
-![Webhook Example](https://gyazo.com/0e81b26f30a585d8a6159e377dfef21a)
+[![](https://i.gyazo.com/0e81b26f30a585d8a6159e377dfef21a.gif)](https://gyazo.com/0e81b26f30a585d8a6159e377dfef21a)
 
 
 ## Future Updates
