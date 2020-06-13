@@ -1,0 +1,6 @@
+certifi==2020.4.5.2
+chardet==3.0.4
+discord-webhook==0.8.0
+idna==2.9
+requests==2.23.0
+urllib3==1.25.9
